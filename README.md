@@ -1,7 +1,7 @@
 # GrAIces 
 
 Welcome to GrAIces repository! It was created by Natalia Skrzypek and Pamela Krzypkowska.
-For any questions of feedback, please contact graices@outlook.com.
+For any questions or feedback, please contact graices@outlook.com.
 
 
 
