@@ -1,9 +1,12 @@
-# Azure your own air quality sensor
-### By Natalia Skrzypek and Pamela Krzypkowska
+# GrAIces 
+
+Welcome to GrAIces repository! It was created by Natalia Skrzypek and Pamela Krzypkowska.
+For any questions of feedback, please contact graices@outlook.com.
 
 
 
 
+# Azure your own air quality sensor 
 
 In this tutorial you will learn how:
 - build an air quality measurement device from scratch,
