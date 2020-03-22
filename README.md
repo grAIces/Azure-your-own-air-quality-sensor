@@ -20,9 +20,9 @@ In case of any issues or recommendations we would love to hear any input, contac
 For this tutorial we used recommended sensors from our fellow Microsft employee and used as follows:
 
 1. Adafruit CCS811 Air Quality Sensor Breakout - VOC and eCO2 Sensor <br> 
-<a href="https://www.adafruit.com/product/3566">![test image size](/img/adafruit.jpg?style=centerme =100x20)</a>
+<a href="https://www.adafruit.com/product/3566"><img src="/img/adafruit.jpg" width="200"/></a>
 
 2. DHT11 – Temperature and Humidity Sensor <br> 
-<a href="https://components101.com/dht11-temperature-sensor">![test image size](/img/adafruit.jpg?style=centerme =100x20)</a>
+<a href="https://components101.com/dht11-temperature-sensor"><img src="/img/dht11.png" width="200"/></a>
 
 
