@@ -17,9 +17,11 @@ In case of any issues or recommendations we would love to hear any input, contac
 
 # Getting the parts
 
-We used analog sensors and straight forward easy-to-go cable wiring. If you would want to play with digital sensors - we'd love to hear about your results.
+Strting from scratch, first comes the brain so when it comes to the board we primarily used <a href="https://en.wikipedia.org/wiki/ESP8266"> ESP8266 Wifi Board </a> (just because we had it at hand) but also for some time played with <a href="https://www.sparkfun.com/products/13711"> SparkFun Thing Deveplopment Board </a>. Both worked well stacked on a basic <a href="https://www.digikey.com/catalog/en/partgroup/half-size-breadboard/71495"> Half-Size Breadboard </a>. When it comes to wiring we used nothing but the simplest single core breadboard wires.
 
-For this tutorial we used recommended sensors from our fellow Microsft employee and used as follows:
+We used analog sensors for the straight forward easy-to-go cable wiring (and the vintage feel). If you would want to play with digital sensors - we'd love to hear about your results.
+
+For this tutorial we used recommended sensors from our fellow Microsft employee who built this sort of sensor and gave us the idea with his blog post. We used as follows:
 
 1. Adafruit CCS811 Air Quality Sensor Breakout - VOC and eCO2 Sensor <br> 
 <a href="https://www.adafruit.com/product/3566"><img src="/img/adafruit.jpg" width="400"/></a> <br>
