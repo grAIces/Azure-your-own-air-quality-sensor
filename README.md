@@ -17,7 +17,7 @@ In case of any issues or recommendations we would love to hear any input, contac
 
 # Getting the parts
 
-Strting from scratch, first comes the brain so when it comes to the board we primarily used <a href="https://en.wikipedia.org/wiki/ESP8266"> ESP8266 Wifi Board </a> (just because we had it at hand) but also for some time played with <a href="https://www.sparkfun.com/products/13711"> SparkFun Thing Deveplopment Board </a>. Both worked well stacked on a basic <a href="https://www.digikey.com/catalog/en/partgroup/half-size-breadboard/71495"> Half-Size Breadboard </a>. When it comes to wiring we used nothing but the simplest <a href="http://www.hobbytronics.co.uk/breadboard-wire"> SingleCcore Breadboard Wires</a>.
+Strting from scratch, first comes the brain so when it comes to the board we primarily used <a href="https://en.wikipedia.org/wiki/ESP8266"> ESP8266 Wifi Board </a> (just because we had it at hand) but also for some time played with <a href="https://www.sparkfun.com/products/13711"> SparkFun Thing Deveplopment Board </a>. Both worked well stacked on a basic <a href="https://www.digikey.com/catalog/en/partgroup/half-size-breadboard/71495"> Half-Size Breadboard </a>. When it comes to wiring we used nothing but the simplest <a href="http://www.hobbytronics.co.uk/breadboard-wire"> Single Core Breadboard Wires</a>.
 
 We used analog sensors for the straight forward easy-to-go cable wiring (and the vintage feel). If you would want to play with digital sensors - we'd love to hear about your results.
 
